@@ -1,0 +1,18 @@
+
+Title: Group-based trajectory modeling to identify homogeneous latent classes for HIV patients
+
+
+Author: José Luis Solá
+
+Advisors:		Nuria Pérez Álvarez
+Daniel Fernández Martínez
+
+Department: FME
+
+University: Universitat Politécnica de Catalunya
+
+Description: 
+Group-based trajectory modeling (GBTM) is a semi-parametric method based on longitudinal data used to identify trajectories of a variable of interest across individuals and examine the follow-up as a whole. GBTM assumes that there is no variation across individuals in the same class. Thereby, individuals with slightly different trajectories are more easily classified into the same class. The main aim of this project is to fit and to assess trajectories and characteristics of HIV patients of a longitudinal data set (LAKE) collected in a clinical trial. The R package lcmm based on linear mixed model theory will be used to run these types of models. 
+
+Keywords
+Group-based trajectory modeling, Longitudinal data, HIV patient’s trajectory, finite mixture models, adherence pattern, latent class analysis
